@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b15fb5cb-e27e-43c5-9de6-00e4840fb449" name="Default Changelist" comment="yash" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DartProblemsView" auto-scroll-to-source="true" />
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dart File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>red</find>
+      <find>checkNsend</find>
+      <find>chec</find>
+      <find>messa</find>
+      <find>sendMessa</find>
+      <find>_isComposingMessage</find>
+      <find>checkN</find>
+      <find>send</find>
+      <find>form</find>
+      <find>rever</find>
+      <find>sendMe</find>
+      <find>onPre</find>
+      <find>Bu</find>
+      <find>errorMe</find>
+      <find>List</find>
+      <find>ؤمش</find>
+      <find>PN</find>
+      <find>info</find>
+      <find>floa</find>
+      <find>doctor</find>
+      <find>Hospita</find>
+      <find>Gender</find>
+      <find>width</find>
+      <find>about</find>
+      <find>Uniq</find>
+      <find>onTa</find>
+      <find>Doctor</find>
+      <find>signu</find>
+      <find>dele</find>
+      <find>Know</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="UPDATE_TYPE" value="REBASE" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1rqQHpFGnmoCCpiknL662Fm7eVC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="AnalyzeApkAction.lastApkPath" value="$PROJECT_DIR$/rcode.apk" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="dart.analysis.tool.window.force.activate" value="false" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/rcode.apk" />
+    <property name="project.structure.last.edited" value="Suggestions" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Mythic\Documents\GitHub\rescue_code\assets" />
+      <recent name="C:\Users\Mythic\Documents\GitHub\rescue_code\lib" />
+      <recent name="C:\Users\Mythic\Documents\GitHub\rescue_code\fonts" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Android App.rcode">
+    <configuration name="main.dart" type="FlutterRunConfigurationType" factoryName="Flutter" editBeforeRun="true" singleton="false">
+      <option name="filePath" value="$PROJECT_DIR$/lib/main.dart" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Android App.rcode" />
+      <item itemvalue="Flutter.main.dart" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b15fb5cb-e27e-43c5-9de6-00e4840fb449" name="Default Changelist" comment="" />
+      <created>1573940238019</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1573940238019</updated>
+    </task>
+    <task id="LOCAL-00001" summary="signout function">
+      <created>1574124918784</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1574124918784</updated>
+    </task>
+    <task id="LOCAL-00002" summary="OVERFLOWWWWWWW">
+      <created>1574252785336</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1574252785336</updated>
+    </task>
+    <task id="LOCAL-00003" summary="simple Chat Validation">
+      <created>1574256236013</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1574256236013</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Done Validation">
+      <created>1574284824171</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1574284824171</updated>
+    </task>
+    <task id="LOCAL-00005" summary="nothing to be mentioned">
+      <created>1574606856571</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1574606856571</updated>
+    </task>
+    <task id="LOCAL-00006" summary="ambulance page || EMERGENCIES">
+      <created>1574643005452</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1574643005452</updated>
+    </task>
+    <task id="LOCAL-00007" summary="About us">
+      <created>1574645207118</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1574645207118</updated>
+    </task>
+    <task id="LOCAL-00008" summary="About us">
+      <created>1574645242272</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1574645242272</updated>
+    </task>
+    <task id="LOCAL-00009" summary="About us">
+      <created>1574646203490</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1574646203490</updated>
+    </task>
+    <task id="LOCAL-00010" summary="About us finished">
+      <created>1574646506570</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1574646506570</updated>
+    </task>
+    <task id="LOCAL-00011" summary="delete token on logout">
+      <created>1575085696528</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1575085696529</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
+    <servers />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myShow1" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="SHOW_DIRTY_RECURSIVELY" value="true" />
+    <MESSAGE value="signout function" />
+    <MESSAGE value="OVERFLOWWWWWWW" />
+    <MESSAGE value="simple Chat Validation" />
+    <MESSAGE value="Done Validation" />
+    <MESSAGE value="nothing to be mentioned" />
+    <MESSAGE value="ambulance page || EMERGENCIES" />
+    <MESSAGE value="About us" />
+    <MESSAGE value="About us finished" />
+    <MESSAGE value="delete token on logout" />
+    <option name="LAST_COMMIT_MESSAGE" value="delete token on logout" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="286" y="178" key="#PSD" timestamp="1619863149877">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="286" y="178" key="#PSD/0.0.1536.864@0.0.1536.864" timestamp="1619863149877" />
+    <state x="0" y="38" key="#Unnamed" timestamp="1619702740735">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="0" y="38" key="#Unnamed/0.0.1536.864@0.0.1536.864" timestamp="1619702740735" />
+    <state x="49" y="48" key="#app" timestamp="1619797861511">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="49" y="48" key="#app/0.0.1536.864@0.0.1536.864" timestamp="1619797861511" />
+    <state x="328" y="99" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1619798043613">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="328" y="99" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.864@0.0.1536.864" timestamp="1619798043613" />
+    <state x="460" y="151" key="#main.dart" timestamp="1619798014630">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="460" y="151" key="#main.dart/0.0.1536.864@0.0.1536.864" timestamp="1619798014630" />
+    <state x="484" y="98" key="#rcode" timestamp="1619862657810">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="484" y="98" key="#rcode/0.0.1536.864@0.0.1536.864" timestamp="1619862657810" />
+    <state x="526" y="146" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1619862578121">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="526" y="146" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1536.864@0.0.1536.864" timestamp="1619862578121" />
+    <state x="204" y="17" width="1200" height="657" key="AVDManager" timestamp="1619711303464">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="204" y="17" width="1200" height="657" key="AVDManager/0.0.1536.864@0.0.1536.864" timestamp="1619711303464" />
+    <state x="586" y="180" key="AndroidProcessChooserDialog" timestamp="1619797710625">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="586" y="180" key="AndroidProcessChooserDialog/0.0.1536.864@0.0.1536.864" timestamp="1619797710625" />
+    <state x="779" y="224" key="FileChooserDialogImpl" timestamp="1619862417648">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="779" y="224" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1619862417648" />
+    <state width="738" height="179" key="GridCell.Tab.0.bottom" timestamp="1619863203806">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="738" height="179" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1619863203806" />
+    <state width="738" height="179" key="GridCell.Tab.0.center" timestamp="1619863203805">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="738" height="179" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1619863203805" />
+    <state width="738" height="179" key="GridCell.Tab.0.left" timestamp="1619863203805">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="738" height="179" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1619863203805" />
+    <state width="738" height="179" key="GridCell.Tab.0.right" timestamp="1619863203806">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="738" height="179" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1619863203806" />
+    <state x="349" y="175" key="IDE.errors.dialog" timestamp="1619863196235">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="349" y="175" key="IDE.errors.dialog/0.0.1536.864@0.0.1536.864" timestamp="1619863196235" />
+    <state x="317" y="69" key="SettingsEditor" timestamp="1619798351948">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="317" y="69" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1619798351948" />
+    <state x="426" y="199" key="run.anything.popup" timestamp="1619798060368">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="426" y="199" key="run.anything.popup/0.0.1536.864@0.0.1536.864" timestamp="1619798060368" />
+    <state x="431" y="185" width="672" height="678" key="search.everywhere.popup" timestamp="1619862573648">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="431" y="185" width="672" height="678" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1619862573648" />
+  </component>
+</project>
