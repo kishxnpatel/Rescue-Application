@@ -1,7 +1,13 @@
 # APK Screenshot:
-<img src=""></img>
+<img src="ImagesReadme/1.jpeg" width="140"></img>
+<img src="ImagesReadme/2.jpeg" width="140"></img>
+<img src="ImagesReadme/3.jpeg" width="140"></img>
+<img src="ImagesReadme/4.jpeg" width="140"></img>
+<img src="ImagesReadme/5.jpeg" width="140"></img>
+<img src="ImagesReadme/6.jpeg" width="140"></img>
 
 # Rescue code Application:
+<p>
 Rescue code app aims to scrimp time needed for rescuing humans' live in emergency time by :
 
 We aim to develop an application that consolidates the necessary operations performed during this  pandemic into one common-to-use platform and ease the burden so people can make decisions faster and  complete things smoother. Providing a structured vaccination drive is crucial for penetrating into the larger society and making sure everybody gets their dose. the second wave drastically impacted our healthcare infrastructure and delayed the production of vaccines. 
@@ -11,7 +17,7 @@ Our application gathers the complete data of the supplied vaccines by consolidat
 Users can also register in their preferred date and time slot for the vaccination drive, so that waiting times and delays are eradicated and crowds forming can be prevented, thereby enabling us to perform in a structured manner. 
 
 an Ambulance feature helps you to contact the nearest ambulance and map to your location for faster reach and immediate medical assistance.
-
+</p>
 
 
 
