@@ -1,3 +1,6 @@
+<strong><a href="https://kishanpatel.tech"> KishanPatel.tech </a> | 
+<a href="https://www.youtube.com/channel/UCPghypjzxDj_gSj0yYX9lbw/"> YOUTUBE </a></strong>
+
 # APK Screenshot:
 <img src="ImagesReadme/1.jpeg" width="120"></img>
 <img src="ImagesReadme/2.jpeg" width="120"></img>
