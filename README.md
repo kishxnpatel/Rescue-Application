@@ -1,5 +1,7 @@
-<strong><a href="https://kishanpatel.tech"> KishanPatel.tech </a> | 
-<a href="https://www.youtube.com/channel/UCPghypjzxDj_gSj0yYX9lbw/"><img src="youtubee.jpg" width="40"></a></strong>
+
+<a href="https://www.youtube.com/channel/UCPghypjzxDj_gSj0yYX9lbw/"><img src="youtubee.jpg" width="130"></a>
+
+<hr></hr>
 
 # APK Screenshot:
 <img src="ImagesReadme/1.jpeg" width="120"></img>
@@ -8,6 +10,7 @@
 <img src="ImagesReadme/4.jpeg" width="120"></img>
 <img src="ImagesReadme/5.jpeg" width="120"></img>
 <img src="ImagesReadme/6.jpeg" width="120"></img>
+<hr></hr>
 
 # Rescue code Application:
 <p>
