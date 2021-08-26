@@ -1,18 +1,18 @@
- <h4 align="center">Visit ↯</h4>
-<div align="center"> <a href="https://kishanpatel.tech"> <img src="tech.JPG" width="210"> </a> |
-              <a href="https://thegoodquotess.blogspot.com"> <img src="blog.jpeg" width="210"> </a> |
-              <a href="https://sptfy.com/thegoodmusic"> <img src="spotify.jpeg" width="210"></a> |
-              <a href="https://www.youtube.com/channel/UCPghypjzxDj_gSj0yYX9lbw/"><img src="youtubee.jpg" width="130"></a></div>
+ ## Visit ↯
+<div align="center"> <a href="https://kishanpatel.tech"> <img src="tech.JPG" width="210"> </a> *
+              <a href="https://thegoodquotess.blogspot.com"> <img src="blog.jpeg" width="210"> </a> *
+              <a href="https://sptfy.com/thegoodmusic"> <img src="spotify.jpeg" width="210"></a> *
+              <a href="https://www.youtube.com/channel/UCPghypjzxDj_gSj0yYX9lbw/"><img src="youtubee.jpg" width="170"></a></div>
 
 <hr>
 
-# APK Screenshot:
+# APK Screenshot ↯
 <img src="ImagesReadme/1.jpeg" width="120"> <img src="ImagesReadme/2.jpeg" width="120">
 <img src="ImagesReadme/3.jpeg" width="120"> <img src="ImagesReadme/4.jpeg" width="120">
 <img src="ImagesReadme/5.jpeg" width="120"> <img src="ImagesReadme/6.jpeg" width="120">
 <hr>
 
-# Rescue code Application:
+# Rescue code Application ↯
 <p>
 Rescue code app aims to scrimp time needed for rescuing human's live in emergency time 
 
