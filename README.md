@@ -1,5 +1,8 @@
-
-<a href="https://www.youtube.com/channel/UCPghypjzxDj_gSj0yYX9lbw/"><img src="youtubee.jpg" width="130"></a>
+ <h4 align="center">Visit ↯</h4>
+<div align="center"> <a href="https://kishanpatel.tech"> <img src="tech.JPG" width="210"> </a> |
+              <a href="https://thegoodquotess.blogspot.com"> <img src="blog.jpeg" width="210"> </a> |
+              <a href="https://sptfy.com/thegoodmusic"> <img src="spotify.jpeg" width="210"></a> |
+              <a href="https://www.youtube.com/channel/UCPghypjzxDj_gSj0yYX9lbw/"><img src="youtubee.jpg" width="130"></a></div>
 
 <hr>
 
