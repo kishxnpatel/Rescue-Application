@@ -1,16 +1,16 @@
 
 <a href="https://www.youtube.com/channel/UCPghypjzxDj_gSj0yYX9lbw/"><img src="youtubee.jpg" width="130"></a>
 
-<hr></hr>
+<hr>
 
 # APK Screenshot:
-<img src="ImagesReadme/1.jpeg" width="120"></img>
-<img src="ImagesReadme/2.jpeg" width="120"></img>
-<img src="ImagesReadme/3.jpeg" width="120"></img>
-<img src="ImagesReadme/4.jpeg" width="120"></img>
-<img src="ImagesReadme/5.jpeg" width="120"></img>
-<img src="ImagesReadme/6.jpeg" width="120"></img>
-<hr></hr>
+<img src="ImagesReadme/1.jpeg" width="120">
+<img src="ImagesReadme/2.jpeg" width="120">
+<img src="ImagesReadme/3.jpeg" width="120">
+<img src="ImagesReadme/4.jpeg" width="120">
+<img src="ImagesReadme/5.jpeg" width="120">
+<img src="ImagesReadme/6.jpeg" width="120">
+<hr>
 
 # Rescue code Application:
 <p>
