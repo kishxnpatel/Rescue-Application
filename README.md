@@ -1,5 +1,6 @@
  ## Visit ↯
- 
+ <link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
 <div align="center"> 
  <a href="https://kishanpatel.tech"><img src="tech.JPG" width="210"> </a> *
  <a href="https://thegoodquotess.blogspot.com"><img src="blog.jpeg" width="210"> </a> *
