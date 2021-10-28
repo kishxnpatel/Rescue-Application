@@ -7,7 +7,7 @@
 <img src="ImagesReadme/1.jpeg" width="120"> <img src="ImagesReadme/2.jpeg" width="120">
 <img src="ImagesReadme/3.jpeg" width="120"> <img src="ImagesReadme/4.jpeg" width="120">
 <img src="ImagesReadme/5.jpeg" width="120"> <img src="ImagesReadme/6.jpeg" width="120">
- <img src="ImagesReadme/7.jpeg" width="120">
+ <img src="ImagesReadme/7.jpg" width="120">
  </div>
 <hr>
 
