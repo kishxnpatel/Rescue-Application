@@ -1,7 +1,4 @@
 
- 
-<hr>
-
 <h3> APK Screenshot </h3>
 <div>
 <img src="ImagesReadme/1.jpeg" width="120"> <img src="ImagesReadme/2.jpeg" width="120">
