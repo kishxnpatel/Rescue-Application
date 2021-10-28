@@ -1,24 +1,19 @@
- ## Visit ↯
- 
- <link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
-<link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
-<div align="center"> 
- 
- <a href="https://thegoodquotess.blogspot.com"><img src="blog.jpeg" width="210"> </a> *
- <a href="https://sptfy.com/thegoodmusic"><img src="spotify.jpeg" width="210"></a> *
- <a href="https://www.youtube.com/channel/UCPghypjzxDj_gSj0yYX9lbw/"><img src="youtubee.jpg" width="160"></a>
-</div>
 
+ 
 <hr>
 
-## APK Screenshot ↯
+<h3> APK Screenshot </h3>
+<div>
 <img src="ImagesReadme/1.jpeg" width="120"> <img src="ImagesReadme/2.jpeg" width="120">
 <img src="ImagesReadme/3.jpeg" width="120"> <img src="ImagesReadme/4.jpeg" width="120">
 <img src="ImagesReadme/5.jpeg" width="120"> <img src="ImagesReadme/6.jpeg" width="120">
  <img src="ImagesReadme/7.jpeg" width="120">
+ </div>
 <hr>
 
-## Rescue Application ↯
+<h3> Rescue Application ↯</h3>
+<div>
+ <p>• Presentation : <a href="https://www.youtube.com/channel/UCPghypjzxDj_gSj0yYX9lbw/"><img src="youtubee.jpg" width="100"> </a> </p>
 <p>
 • Rescue code app aims to scrimp time needed for rescuing human's live in emergency time.</p> 
 
@@ -30,6 +25,7 @@
 
 <p>• An Ambulance feature helps you to contact the nearest ambulance and map to your location for faster reach and immediate medical assistance.
 </p>
+ </div>
 
 
 
